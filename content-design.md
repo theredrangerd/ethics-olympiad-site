@@ -287,6 +287,7 @@
   - **Adela GAO** — `gao127710@gapps.uwcsea.edu.sg`
   - **Noelle GAO** — `gao131446@gapps.uwcsea.edu.sg`
   - **Loka QIU** — `qiu130234@gapps.uwcsea.edu.sg`
+  - **Noah AUSTIN** — `austi118767@gapps.uwcsea.edu.sg`
 
 ---
 
