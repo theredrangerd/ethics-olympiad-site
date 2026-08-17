@@ -282,12 +282,12 @@
 - **Section Title**: `Leadership Team Contact Details`
 - **Lead Text**: *Have questions or want to learn more? Reach out to any of our student leaders directly via email:*
 - **Leadership Contacts (Exact Roster from Poster)**:
-  - **Sophie LAYA** — `laya47962@gapps.uwcsea.edu.sg`
-  - **Nancy ZHU** — `zhu138248@gapps.uwcsea.edu.sg`
-  - **Adela GAO** — `gao127710@gapps.uwcsea.edu.sg`
-  - **Noelle GAO** — `gao131446@gapps.uwcsea.edu.sg`
-  - **Loka QIU** — `qiu130234@gapps.uwcsea.edu.sg`
-  - **Noah AUSTIN** — `austi118767@gapps.uwcsea.edu.sg`
+  - **Sophie LAYA** (Grade 11) — `laya47962@gapps.uwcsea.edu.sg`
+  - **Nancy ZHU** (Grade 12) — `zhu138248@gapps.uwcsea.edu.sg`
+  - **Adela GAO** (Grade 11) — `gao127710@gapps.uwcsea.edu.sg`
+  - **Noelle GAO** (Grade 12) — `gao131446@gapps.uwcsea.edu.sg`
+  - **Loka QIU** (Grade 10) — `qiu130234@gapps.uwcsea.edu.sg`
+  - **Noah AUSTIN** (Grade 11) — `austi118767@gapps.uwcsea.edu.sg`
 
 ---
 

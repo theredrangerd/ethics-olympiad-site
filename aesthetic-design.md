@@ -238,13 +238,13 @@ Everything specified in 4.1–4.5 as written: kinetic letter-fall splash, 3-laye
 - **Visual Style**: Dark slate cards with engraved philosopher thumbnails and hover elevation.
 
 ### 5.8 Leadership Team Grid (`<Leadership>`)
-- **Profile cards for Student Leaders**:
-  - Sophie LAYA (`laya47962@gapps.uwcsea.edu.sg`)
-  - Nancy ZHU (`zhu138248@gapps.uwcsea.edu.sg`)
-  - Adela GAO (`gao127710@gapps.uwcsea.edu.sg`)
-  - Noelle GAO (`gao131446@gapps.uwcsea.edu.sg`)
-  - Loka QIU (`qiu130234@gapps.uwcsea.edu.sg`)
-  - Noah AUSTIN (`austi118767@gapps.uwcsea.edu.sg`)
+- **Profile cards for Student Leaders with Grade Badges**:
+  - Sophie LAYA (Grade 11) — `laya47962@gapps.uwcsea.edu.sg`
+  - Nancy ZHU (Grade 12) — `zhu138248@gapps.uwcsea.edu.sg`
+  - Adela GAO (Grade 11) — `gao127710@gapps.uwcsea.edu.sg`
+  - Noelle GAO (Grade 12) — `gao131446@gapps.uwcsea.edu.sg`
+  - Loka QIU (Grade 10) — `qiu130234@gapps.uwcsea.edu.sg`
+  - Noah AUSTIN (Grade 11) — `austi118767@gapps.uwcsea.edu.sg`
 
 ### 5.9 Express Interest Mini-Form (`<ExpressInterest>`) — *Revised, replaces the old full LifeCon sign-up form*
 - **Visual Design**: A single-field, low-emphasis inline form — one email input + `Notify Me ✦` gold-outline button (not solid-fill, to visually subordinate it to the primary `Register on CIMS` CTA). Appears twice: compact, under the QR panel (§5.4a), and repeated in the footer for visitors who scroll all the way down.
